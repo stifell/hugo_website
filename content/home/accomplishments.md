@@ -23,29 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.imagevenue.com/ME14TXWL
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    date_start: '2021-04-24'
+    description: Prize - winner of the All - Russian Olympiad of schoolchildren
+    organization: Ministry of Education
+    organization_url: https://minobrnauki.gov.ru/
+    title: Russian Olympiad
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.imagevenue.com/ME14TXWM
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2019-03-28'
+    description: The first sports category in cross - country skiing
+    organization: Ministry of Sports
+    organization_url: https://www.minsport.gov.ru/
+    title: The first sports category
     url: ''
 
 design:
