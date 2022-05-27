@@ -25,17 +25,17 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/wX2L8L-fGeA)'
   focal_point: ''
-  placement: 2
+  placement: ''
   preview_only: false
 
 authors:
   - admin
 
 tags:
-  - Academic
+  - Education
 
 categories:
-  - Demo
+  - Academic
 ---
 
 ## Article:

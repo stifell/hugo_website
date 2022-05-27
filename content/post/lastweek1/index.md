@@ -25,17 +25,17 @@ featured: false
 image:
   caption: 'Image credit [**Unsplash**](https://unsplash.com/photos/cdDDWLezAJ0)'
   focal_point: ''
-  placement: 2
+  placement: ''
   preview_only: false
 
 authors:
   - admin
 
 tags:
-  - Academic
+  - My week
 
 categories:
-  - Demo
+  - Life
 ---
 
 ## Article

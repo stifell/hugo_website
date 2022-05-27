@@ -25,17 +25,17 @@ featured: false
 image:
   caption: 'Image credit [**Unsplash**](https://unsplash.com/photos/J5yoGZLdpSI)'
   focal_point: ''
-  placement: 2
+  placement: ''
   preview_only: false
 
 authors:
   - admin
 
 tags:
-  - Academic
+  - Education
 
 categories:
-  - Demo
+  - Academic
 ---
 
 ## Article
@@ -60,8 +60,8 @@ Markdown is not a replacement for HTML. The Markdown syntax is quite limited, an
 + [Code fragments of strings](#Code);
 + [Images](#Images).
 3. Additional elements
-+ [Backslash](#Backslash Escapes);
-+ [Automatic Links](#Automatic Links);
++ [Backslash](#Backslash_Escapes);
++ [Automatic Links](#Automatic_Links);
 + [HTML Special Characters](#SpecialSymbol).  
 
 For more information about the listed functions, see the section "Syntax Description".
@@ -376,7 +376,7 @@ An important feature is that Markdown does not allow you to set image dimensions
  Additional elements
 -------------------------  
 
-##### <a name="Backslash Escapes"></a>	Backslash
+##### <a name="Backslash_Escapes"></a> 	Backslash
 It can be used in Markdown before special characters so that they are perceived in their literal (and not official) meaning. The full list of these symbols is given below:
 
 "\" - slash;  
@@ -403,7 +403,7 @@ It can be used in Markdown before special characters so that they are perceived 
 
 "!" is an exclamation mark.  
 
-##### <a name="Automatic Links"></a> Automatic links
+##### <a name="Automatic_Links"></a> Automatic links
 Markdown supports a simplified procedure for automatically creating links for URLs and email addresses. To do this, just put the URL or postal address in angle brackets, and Markdown will make it a hyperlink. Unlike the styles described above, in this case the URL or postal address itself becomes the hyperlink text. Automatic links to email addresses work similarly.
 Automatic links in the Markdown language look like this
 
@@ -423,4 +423,4 @@ In order to use these characters in their literal sense, it is necessary to repl
 When using Markdown, you do not need to perform such actions. It allows you to use these characters in their original form. If the ampersand is used as part of the HTML special character, it will remain unchanged. Otherwise Markdown will convert it to `&amp;`.
 <br>
 --------<br>
-copyright: https://gist.github.com/Jekins/2bf2d0638163f1294637#file-markdown-docs-md
+source: https://gist.github.com/Jekins/2bf2d0638163f1294637#file-markdown-docs-md

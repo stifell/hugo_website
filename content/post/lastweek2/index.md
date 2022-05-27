@@ -9,10 +9,10 @@ summary: About how I spent the last week
 projects: []
 
 # Date published
-date: '2022-05-14T00:00:00Z'
+date: '2022-05-14T00:00:01Z'
 
 # Date updated
-lastmod: '2022-05-14T00:00:00Z'
+lastmod: '2022-05-14T00:00:01Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -25,17 +25,17 @@ featured: false
 image:
   caption: 'Image credit [**Unsplash**](https://unsplash.com/photos/Lh3HAnw8RtU)'
   focal_point: ''
-  placement: 2
+  placement: ''
   preview_only: false
 
 authors:
   - admin
 
 tags:
-  - Academic
+  - My week
 
 categories:
-  - Demo
+  - Life
 ---
 
 ## Article
