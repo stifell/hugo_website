@@ -8,6 +8,7 @@ en:
   contentDir: content/en
   title: Matyushkin D.V.
 
+# Default language
 ru:
   languageCode: ru-ru
   contentDir: content/ru

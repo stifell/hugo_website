@@ -9,10 +9,10 @@ summary: Article about hugo static site generator
 projects: []
 
 # Date published
-date: '2022-05-30T00:00:02Z'
+date: '2022-05-30T00:00:00Z'
 
 # Date updated
-lastmod: '2022-05-30T00:00:02Z'
+lastmod: '2022-05-30T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

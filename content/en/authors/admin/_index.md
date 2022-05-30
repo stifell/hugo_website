@@ -62,7 +62,7 @@ social:
     link: https://independent.academia.edu/DenisMatyushkin
   - icon: arxiv
     icon_pack: ai
-    link: https://arxiv.org/user/
+    link: https://arxiv.org/user
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
