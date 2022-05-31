@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Быстро находите релевантный контент, [фильтруя публикации](./publication/).
 {{% /callout %}}

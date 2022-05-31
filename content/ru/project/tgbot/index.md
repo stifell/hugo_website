@@ -3,6 +3,7 @@ title: Телеграм бот на Python
 summary: Статья о телеграм боте на Python
 tags:
   - Глубокое обучение
+  - Python
 categories:
   - Python
 date: '2022-05-26T00:00:00Z'
@@ -17,8 +18,10 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Ссылка
+    name: Github
     url: https://github.com/stifell
+  - name: Ссылка
+    url: https://habr.com/ru/post/442800
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,7 +32,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 

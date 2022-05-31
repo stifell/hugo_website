@@ -32,7 +32,7 @@ authors:
   - admin
 
 tags:
-  - Образование
+  - Дизайн
 
 categories:
   - Учеба
