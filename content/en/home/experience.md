@@ -29,7 +29,7 @@ experience:
     location: Russia, Moscow
     date_start: '2021-09-01'
     date_end: '2025-07-01'
-    description: The first course of university
+    description: The second course of university
 
 design:
   columns: '2'

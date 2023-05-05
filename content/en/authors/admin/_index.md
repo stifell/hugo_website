@@ -19,13 +19,13 @@ bio: My interests include programming in different languages, machine learning a
 # Interests to show in About widget
 interests:
   - Operating systems
-  - Python and C++
+  - Programming
   - Sports
 
 # Education to show in About widget
 education:
   courses:
-    - course: The first course
+    - course: The second course
       institution: RUDN University
       year: 2021
 

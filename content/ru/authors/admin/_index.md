@@ -19,13 +19,13 @@ bio: Мои интересы включают программирование �
 # Interests to show in About widget
 interests:
   - Операционные системы
-  - Python и C++
+  - Программирование
   - Спорт
 
 # Education to show in About widget
 education:
   courses:
-    - course: Первый курс
+    - course: Второй курс
       institution: Университет РУДН
       year: 2021
 
